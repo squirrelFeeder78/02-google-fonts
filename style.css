@@ -2,11 +2,16 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: Arial, sans-serif;
+  font-family: 'Pacifico', cursive, Arial, sans-serif;
   background-color: #ffffff;
   color: #333;
   line-height: 1.6;
   font-size: 18px; /* Increased font size for better readability */
+}
+
+/* Add heading font-family */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', Arial, sans-serif;
 }
 
 /* Hero Section */
